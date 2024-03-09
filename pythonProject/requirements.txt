@@ -1,0 +1,12 @@
+appdirs
+streamlit
+preprocessor
+helper
+matplotlib.pyplot
+seaborn
+URLExtract
+WordCloud
+pandas
+collections
+emoji
+re
