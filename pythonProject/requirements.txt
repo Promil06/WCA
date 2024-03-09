@@ -1,0 +1,9 @@
+appdirs==1.4.4
+streamlit==0.90.0
+tweet-preprocessor==0.6.0  # This is the correct package name for "preprocessor"
+matplotlib==3.5.1
+seaborn==0.11.2
+urlextract==1.4.0  # This is the correct package name for "URLExtract"
+wordcloud==1.8.1  # Ensure correct version for compatibility
+pandas==1.3.3
+emoji==1.6.1
