@@ -1,0 +1,9 @@
+appdirs
+streamlit
+tweet-preprocessor
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
