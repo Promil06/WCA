@@ -6,6 +6,8 @@ import seaborn as sns
 
 st.sidebar.header('Whatsapp Chat Analyzer')
 
+st.sidebar.warning('Kindly upload chat with 24-hr time format only')
+
 uploaded_file = st.sidebar.file_uploader('Choose a file')
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
